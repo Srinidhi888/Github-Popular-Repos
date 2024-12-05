@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.inner-bg {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.li-1 {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  width: 300px;
+  height: 360px;
+}
+.ima-logo {
+  height: 20px;
+  width: 30px;
+  margin-right: 10px;
+}
+.ima {
+  height: 90px;
+  width: 80px;
+}
+
